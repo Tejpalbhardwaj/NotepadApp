@@ -20,3 +20,7 @@ A modern and minimalistic Notes App built with Kotlin and Jetpack Compose. Creat
 - **Material Design 3**
 
 ---
+
+![alt image](https://github.com/Tejpalbhardwaj/NotepadApp/blob/main/Screenshot%20(13).png?raw=true)
+
+
